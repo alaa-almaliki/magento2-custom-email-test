@@ -5,7 +5,7 @@
   "license": "MIT",
   "version": "1.0.0",
   "require": {
-    "alaa/magento2-custom-mail": "~1.0.*"
+    "alaa/magento2-custom-mail": "~1.0.0"
   },
   "autoload": {
     "files": [
